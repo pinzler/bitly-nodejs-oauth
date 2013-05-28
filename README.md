@@ -1,5 +1,4 @@
-# Bitly Authentication Node.JS & Express Quick Template
-=======================================================
+# Bitly Oauth Node.JS & Express Quick Template
 
 ## Setup on bitly
 
